@@ -1,27 +1,44 @@
-<h3 align="center">Code should be lightweight, updated, least complex and balanced within Speed & Scalability!</h3>
-<hr>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammad Mohammad Hasan
+===============================================================================================================================================
 
-Wanna pass? 
-1. Do at-least one project that have large user group
-2. Do several open-source project
-3. Do pipeline integration, check deployment
-4. Test your code with Codacy/Scrutinizer/SonarQube/...
-5. Stay up-to-date with current technology
+Software Engineer
+-----------------
 
-What we gain?
-1. Reduce our coding mistakes
-2. Get used to with optimized coding
+Result-driven and dedicated IT person capable of developing effective and secure solutions. Passionate Programmer capable of utilizing logical thinking skills and expertise to provide proper solutions.
 
-& Always keep asking:
+* 🌍  I'm based in Dhaka, Bangladesh
+* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/abmmhasan/)
+* ✉️  You can contact me at [abmmhasan@gmail.com](mailto:abmmhasan@gmail.com)
+* 🚀  I'm currently working on [Dtac App/Lite API](http://www.dtac.co.th)
+* 🤝  I'm open to collaborating on Libraries, Frameworks, RESTful APIs
+* ⚡  I prefer code to be lightweight, updated, least complex and balanced within Speed & Scalability
 
-What? Why? How?
+### Skills
 
-If same answer is coming every now & then, we are stuck! If not then we are improving!
 
-The relation between `frequency of satisfaction` and `answer` defines the quality.
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
-[![abmmhasan's GitHub stats](https://github-readme-stats-abmmhasan.vercel.app/api?username=abmmhasan&count_private=true&show_icons=true&theme=blueberry&bg_color=00000000&include_all_commits=true&hide_title=true&hide_border=true)](https://github.com/abmmhasan)
-[![Top Langs](https://github-readme-stats-abmmhasan.vercel.app/api/top-langs/?username=abmmhasan&show_icons=true&theme=blueberry&bg_color=00000000&layout=compact&hide_border=true)](https://github.com/abmmhasan)
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/abmmhasan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abmmhasan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/abmmhasan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+
+[![abmmhasan's GitHub stats](https://github-readme-stats-git-master-abmmhasan.vercel.app/api?username=abmmhasan&count_private=true&show_icons=true&theme=blueberry&bg_color=00000000&include_all_commits=true&hide_title=true&hide_border=true)](https://github.com/abmmhasan)
+[![Top Langs](https://github-readme-stats-git-master-abmmhasan.vercel.app/api/top-langs/?username=abmmhasan&show_icons=true&theme=blueberry&bg_color=00000000&layout=compact&hide_border=true)](https://github.com/abmmhasan)
 
 <!--
 **abmmhasan/abmmhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
