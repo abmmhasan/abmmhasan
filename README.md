@@ -44,6 +44,8 @@ Result-driven and dedicated IT person capable of developing effective and secure
 [![abmmhasan's GitHub stats](https://github-readme-stats-git-master-abmmhasan.vercel.app/api?username=abmmhasan&count_private=true&show_icons=true&theme=blueberry&bg_color=00000000&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true)](https://github.com/abmmhasan)
 [![Top Langs](https://github-readme-stats-git-master-abmmhasan.vercel.app/api/top-langs/?username=abmmhasan&show_icons=true&theme=blueberry&bg_color=00000000&layout=compact&hide_border=true)](https://github.com/abmmhasan)
 
+### Special thanks
+<a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" width="100" height="100" alt="JetBrains" /></a>
 <!--
 **abmmhasan/abmmhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
