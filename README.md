@@ -47,7 +47,7 @@ Result-driven and dedicated IT person capable of developing effective and secure
 ![abmmhasan's trophy](https://github-profile-trophy.vercel.app/?username=abmmhasan&theme=nord&column=8&margin-w=10&margin-h=15&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)
 
 ### Latest from my blog
-![abmmhasan's blog](https://github-read-medium.vercel.app/latest?username=abmmhasan&limit=6&theme=nord)
+[![abmmhasan's blog](https://github-read-medium.vercel.app/latest?username=abmmhasan&limit=6&theme=nord)](https://medium.com/@abmmhasan)
 
 ### Special thanks
 <a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" width="100" height="100" alt="JetBrains" /></a>
