@@ -39,13 +39,22 @@ Result-driven and dedicated IT person capable of developing effective and secure
   <a href="https://www.github.com/abmmhasan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
   <a href="https://www.linkedin.com/in/abmmhasan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
   <a href="https://abmmhasan.medium.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-</p>
+</p> 
 
 [![abmmhasan's GitHub stats](https://github-readme-stats-git-master-abmmhasan.vercel.app/api?username=abmmhasan&count_private=true&show_icons=true&theme=blueberry&bg_color=00000000&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true)](https://github.com/abmmhasan)
 [![Top Langs](https://github-readme-stats-git-master-abmmhasan.vercel.app/api/top-langs/?username=abmmhasan&show_icons=true&theme=blueberry&bg_color=00000000&layout=compact&hide_border=true)](https://github.com/abmmhasan)
 
 ### Special thanks
 <a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" width="100" height="100" alt="JetBrains" /></a>
+
+### Latest from my blog
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abmmhasan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abmmhasan/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abmmhasan/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abmmhasan/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abmmhasan/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abmmhasan/2" alt="Recent Article 2"> 
+<!--
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abmmhasan/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abmmhasan/3" alt="Recent Article 3">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abmmhasan/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abmmhasan/4" alt="Recent Article 4">
+
 <!--
 **abmmhasan/abmmhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
