@@ -42,9 +42,9 @@ Result-driven and dedicated IT person capable of developing effective and secure
 </p> 
 
 ### Stats
-[![abmmhasan's GitHub stats](https://github-readme-stats-git-master-abmmhasan.vercel.app/api?username=abmmhasan&count_private=true&show_icons=true&theme=blueberry&bg_color=00000000&include_all_commits=true&hide_title=true&hide_border=false&hide_rank=true)](https://github.com/abmmhasan)
-[![Top Langs](https://github-readme-stats-git-master-abmmhasan.vercel.app/api/top-langs/?username=abmmhasan&show_icons=true&theme=blueberry&bg_color=00000000&layout=compact&hide_border=false)](https://github.com/abmmhasan)
-![abmmhasan's trophy](https://github-profile-trophy.vercel.app/?username=abmmhasan&theme=nord&column=8&margin-w=10&margin-h=15)
+[![abmmhasan's GitHub stats](https://github-readme-stats-git-master-abmmhasan.vercel.app/api?username=abmmhasan&count_private=true&show_icons=true&theme=blueberry&bg_color=00000000&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true)](https://github.com/abmmhasan)
+[![Top Langs](https://github-readme-stats-git-master-abmmhasan.vercel.app/api/top-langs/?username=abmmhasan&show_icons=true&theme=blueberry&bg_color=00000000&layout=compact&hide_border=true)](https://github.com/abmmhasan)
+![abmmhasan's trophy](https://github-profile-trophy.vercel.app/?username=abmmhasan&theme=nord&column=8&margin-w=10&margin-h=15&no-frame=true&no-bg=true)
 
 ### Latest from my blog
 ![abmmhasan's blog](https://github-read-medium.vercel.app/latest?username=abmmhasan&limit=6&theme=nord)
