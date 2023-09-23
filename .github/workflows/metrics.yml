@@ -27,7 +27,7 @@ jobs:
           # Options
           user: abmmhasan
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, community, repositories, metadata
           base_hireable: yes
           base_indepth: yes
           config_display: columns
