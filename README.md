@@ -37,14 +37,6 @@ Result-driven and dedicated IT person capable of developing effective and secure
   <a href="https://medium.com/@abmmhasan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
 </p> 
 
-### Stats
-[![abmmhasan's GitHub stats](https://github-readme-stats-git-master-abmmhasan.vercel.app/api?username=abmmhasan&count_private=true&show_icons=true&theme=blueberry&bg_color=00000000&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true)](https://github.com/abmmhasan)
-[![Top Langs](https://github-readme-stats-git-master-abmmhasan.vercel.app/api/top-langs/?username=abmmhasan&show_icons=true&theme=blueberry&bg_color=00000000&layout=compact&hide_border=true)](https://github.com/abmmhasan)
-
-### Contributions
-[![abmmhasan's Longest Streak](https://streak-stats.demolab.com?user=abmmhasan&theme=transparent&hide_border=true&mode=weekly)](https://github.com/abmmhasan)
-[![abmmhasan's trophy](https://github-profile-trophy.vercel.app/?username=abmmhasan&theme=nord&column=4&margin-w=10&margin-h=15&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/abmmhasan)
-
 ### Latest from my blog
 <!-- BLOG-POST-LIST:START -->
 - [Debian Server: Recommended Utility Packages](https://medium.com/@abmmhasan/debian-server-recommended-non-security-packages-75a4c6a09f6b?source=rss-90c9434afd1------2)
@@ -55,20 +47,16 @@ Result-driven and dedicated IT person capable of developing effective and secure
 
 [:book: Check my blog for more!](https://medium.com/@abmmhasan)
 
+### Stats
+<picture>
+  <img src="/github-metrics.svg?id=123" alt="Metrics"  width="100%">
+</picture>
+
+[![abmmhasan's GitHub stats](https://github-readme-stats-git-master-abmmhasan.vercel.app/api?username=abmmhasan&count_private=true&show_icons=true&theme=blueberry&bg_color=00000000&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true)](https://github.com/abmmhasan)
+[![abmmhasan's Longest Streak](https://streak-stats.demolab.com?user=abmmhasan&theme=transparent&hide_border=true&mode=weekly)](https://github.com/abmmhasan)
+[![abmmhasan's trophy](https://github-profile-trophy.vercel.app/?username=abmmhasan&theme=nord&column=7&margin-w=10&margin-h=15&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/abmmhasan)
+
+
+
 ### Special thanks
 <a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" width="100" height="100" alt="JetBrains" /></a>
-
-<!--
-**abmmhasan/abmmhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![abmmhasan's blog](https://github-read-medium.vercel.app/latest?username=abmmhasan&limit=6&theme=nord)](https://medium.com/@abmmhasan)
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
