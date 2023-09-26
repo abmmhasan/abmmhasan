@@ -57,8 +57,11 @@ Result-driven and dedicated IT person capable of developing effective and secure
 <picture>
   <img src="/github-metrics.svg" alt="Metrics"  width="100%">
 </picture>
+<picture>
+  <img src="/trophy.svg" alt="Trophy"  width="50%">
+</picture>
 
-[![abmmhasan's GitHub stats](https://github-readme-stats-git-master-abmmhasan.vercel.app/api?username=abmmhasan&count_private=true&show_icons=true&theme=blueberry&bg_color=00000000&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true)](https://github.com/abmmhasan)
+[![abmmhasan's GitHub stats](https://github-readme-stats-git-master-abmmhasan.vercel.app/api?username=abmmhasan&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true)](https://github.com/abmmhasan)
 [![abmmhasan's Longest Streak](https://streak-stats.demolab.com?user=abmmhasan&theme=transparent&hide_border=true&mode=weekly)](https://github.com/abmmhasan)
 [![abmmhasan's trophy](https://github-profile-trophy-abmmhasan.vercel.app/?username=abmmhasan&theme=nord&column=7&margin-w=10&margin-h=15&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/abmmhasan)
 
