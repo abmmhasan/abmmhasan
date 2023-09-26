@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Result-driven and dedicated IT person capable of developing effective and secure solutions. Passionate Programmer capable of utilizing logical thinking skills and expertise to provide proper solutions.
+> Organized & dependable with analytical and result driven mindset. Dedicated to achieve demanding objectives _with proven troubleshooting and debugging capabilities_ for complex technical issue resolution.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/abmmhasan/)
@@ -56,9 +56,6 @@ Result-driven and dedicated IT person capable of developing effective and secure
 ### Stats
 <picture>
   <img src="/github-metrics.svg" alt="Metrics"  width="100%">
-</picture>
-<picture>
-  <img src="/trophy.svg" alt="Trophy"  width="50%">
 </picture>
 
 [![abmmhasan's GitHub stats](https://github-readme-stats-git-master-abmmhasan.vercel.app/api?username=abmmhasan&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true)](https://github.com/abmmhasan)
