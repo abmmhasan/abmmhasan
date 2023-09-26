@@ -21,3 +21,7 @@ jobs:
           feed_list: "https://medium.com/feed/@abmmhasan"
       - name: Pull Trophy
         run: curl https://github-readme-stats-git-master-abmmhasan.vercel.app/api?username=abmmhasan&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true > trophy.svg
+      - uses: actions/upload-artifact@v3
+        with:
+           name: my-trophy
+           path: trophy.svg
