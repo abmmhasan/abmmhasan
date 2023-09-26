@@ -9,8 +9,8 @@ permissions:
   contents: write
 
 jobs:
-  content-writer:
-    name: Update latest content
+  blog-post:
+    name: Update latest blog post
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -19,9 +19,18 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@abmmhasan"
+  pull-trophy:
+    name: Update latest trophy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
       - name: Pull Trophy
-        run: curl https://github-readme-stats-git-master-abmmhasan.vercel.app/api?username=abmmhasan&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true > trophy.svg
-      - uses: actions/upload-artifact@v3
+        run: mkdir -p /artifacts && curl https://github-readme-stats-git-master-abmmhasan.vercel.app/api?username=abmmhasan&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true > /artifacts/trophy.svg
+
+      - name: Upload
+        uses: actions/upload-artifact@v3
         with:
            name: my-trophy
-           path: trophy.svg
+           path: /artifacts/trophy.svg
