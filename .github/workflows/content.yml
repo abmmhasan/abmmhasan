@@ -33,6 +33,8 @@ jobs:
         run: wget -O trophy.svg https://github-profile-trophy-abmmhasan.vercel.app/?username=abmmhasan&theme=nord&column=7&margin-w=10&margin-h=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET
       - name: Commit
         run: |
+          ls -lrth
+          git status
           if git diff --exit-code; then
             echo "Nothing to commit."
             exit 0
