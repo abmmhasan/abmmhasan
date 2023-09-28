@@ -21,6 +21,7 @@ jobs:
           feed_list: "https://medium.com/feed/@abmmhasan"
   pull-stats:
     name: Update latest trophy
+    permissions: write-all
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -33,10 +34,13 @@ jobs:
         run: wget -O trophy.svg https://github-profile-trophy-abmmhasan.vercel.app/?username=abmmhasan&theme=nord&column=7&margin-w=10&margin-h=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET
       - name: Commit
         run: |
-          git status
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "update"
-          git push
-          git status
+          if git diff --exit-code; then
+            echo "Nothing to commit."
+            exit 0
+          else
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add .
+            git commit -m "update"
+            git push origin main
+          fi
