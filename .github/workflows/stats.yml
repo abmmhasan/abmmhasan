@@ -14,6 +14,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT }}
       - name: Pull in stats
         run: |
           wget -O commitStat.svg 'https://github-readme-stats-git-master-abmmhasan.vercel.app/api?username=abmmhasan&count_private=true&show_icons=true&theme=nord&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true'
