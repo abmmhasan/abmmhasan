@@ -17,11 +17,11 @@ jobs:
         with:
           token: ${{ secrets.PAT }}
       - name: Commit stats
-        run: wget -U "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" -O commitStat.svg "https://github-readme-stats-git-master-abmmhasan.vercel.app/api?username%3Dabmmhasan%26count_private%3Dtrue%26show_icons%3Dtrue%26theme%3Dnord%26include_all_commits%3Dtrue%26hide_title%3Dtrue%26hide_border%3Dtrue%26hide_rank%3Dtrue"
+        run: wget -U "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" -O commitStat.svg "https://github-readme-stats-git-master-abmmhasan.vercel.app/api?username=abmmhasan&count_private=true&show_icons=true&theme=nord&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true"
       - name: Streak stats
-        run: wget -U "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" -O streak.svg "https://streak-stats.demolab.com?user%3Dabmmhasan%26theme%3Dnord%26hide_border%3Dtrue%26mode%3Dweekly"
+        run: wget -U "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" -O streak.svg "https://streak-stats.demolab.com?user=abmmhasan&theme=nord&hide_border=true&mode=weekly"
       - name: Trophy
-        run: wget -U "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" -O trophy.svg "https://github-profile-trophy-abmmhasan.vercel.app/?username%3Dabmmhasan%26theme%3Dnord%26column%3D7%26margin-w%3D10%26margin-h%3D15%26no-frame%3Dtrue%26rank%3DSSS%2CSS%2CS%2CAAA%2CAA%2CA%2CB%2CC%2CSECRET"
+        run: wget -U "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" -O trophy.svg "https://github-profile-trophy-abmmhasan.vercel.app/?username=abmmhasan&theme=nord&column=7&margin-w=10&margin-h=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET"
       - name: Commit
         run: |
           if git diff --exit-code; then
