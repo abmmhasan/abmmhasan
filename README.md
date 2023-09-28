@@ -57,7 +57,8 @@ Software Engineer
 <picture>
   <img src="/github-metrics.svg" alt="Metrics"  width="100%">
 </picture>
-<hr>
+
+---
 
 [![abmmhasan's GitHub stats](https://github-readme-stats-git-master-abmmhasan.vercel.app/api?username=abmmhasan&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true)](https://github.com/abmmhasan)
 [![abmmhasan's Longest Streak](https://streak-stats.demolab.com?user=abmmhasan&theme=transparent&hide_border=true&mode=weekly)](https://github.com/abmmhasan)
