@@ -60,7 +60,6 @@ Software Engineer
 ---
 
 <img src="https://github-readme-stats-git-master-abmmhasan.vercel.app/api?username=abmmhasan&count_private=true&show_icons=true&theme=nord&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true" alt="Metrics" width="49.7%" height="190px">
-
 <img src="https://streak-stats.demolab.com?user=abmmhasan&theme=nord&hide_border=true&mode=weekly" alt="Metrics" width="49.7%" height="190px">
 
 <img src="https://github-profile-trophy-abmmhasan.vercel.app/?username=abmmhasan&theme=nord&column=7&margin-w=10&margin-h=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" alt="Metrics" width="99.4%">
