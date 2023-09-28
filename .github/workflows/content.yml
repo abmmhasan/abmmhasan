@@ -1,4 +1,4 @@
-name: Content Writer
+name: Blog Updater
 on:
   push:
     branches: [ 'main' ]
@@ -19,28 +19,3 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@abmmhasan"
-  pull-stats:
-    name: Update latest trophy
-    permissions: write-all
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Pull in stats (commit)
-        run: wget -O commitStat.svg https://github-readme-stats-git-master-abmmhasan.vercel.app/api?username=abmmhasan&count_private=true&show_icons=true&theme=nord&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true
-      - name: Pull in streak
-        run: wget -O streak.svg https://streak-stats.demolab.com?user=abmmhasan&theme=nord&hide_border=true&mode=weekly
-      - name: Pull in trophy
-        run: wget -O trophy.svg https://github-profile-trophy-abmmhasan.vercel.app/?username=abmmhasan&theme=nord&column=7&margin-w=10&margin-h=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET
-      - name: Commit
-        run: |
-          if git diff --exit-code; then
-            echo "Nothing to commit."
-            exit 0
-          else
-            git config user.name github-actions
-            git config user.email github-actions@github.com
-            git add .
-            git commit -m "update"
-            git push origin main
-          fi
