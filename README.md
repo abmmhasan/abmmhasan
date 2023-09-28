@@ -52,7 +52,6 @@ Software Engineer
   <img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
 </a>
 
-
 ### Stats
 <picture>
   <img src="/github-metrics.svg" alt="Metrics"  width="100%">
@@ -60,10 +59,17 @@ Software Engineer
 
 ---
 
-[![abmmhasan's GitHub stats](https://github-readme-stats-git-master-abmmhasan.vercel.app/api?username=abmmhasan&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true)](https://github.com/abmmhasan)
-[![abmmhasan's Longest Streak](https://streak-stats.demolab.com?user=abmmhasan&theme=transparent&hide_border=true&mode=weekly)](https://github.com/abmmhasan)
+<picture>
+  <img src="https://github-readme-stats-git-master-abmmhasan.vercel.app/api?username=abmmhasan&count_private=true&show_icons=true&theme=nord&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true" alt="Metrics" width="49.7%" height="190px">
+</picture>
 
-[![abmmhasan's trophy](https://github-profile-trophy-abmmhasan.vercel.app/?username=abmmhasan&theme=nord&column=7&margin-w=10&margin-h=15&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/abmmhasan)
+<picture>
+  <img src="https://streak-stats.demolab.com?user=abmmhasan&theme=nord&hide_border=true&mode=weekly" alt="Metrics" width="49.7%" height="190px">
+</picture>
+
+<picture>
+  <img src="https://github-profile-trophy-abmmhasan.vercel.app/?username=abmmhasan&theme=nord&column=7&margin-w=10&margin-h=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" alt="Metrics" width="99.4%">
+</picture>
 
 ### Special thanks
 <a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" width="100" height="100" alt="JetBrains" /></a>
