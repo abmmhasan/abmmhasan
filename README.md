@@ -1,5 +1,4 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@master/ci.min.css"/>
-<link rel="stylesheet" href="github-markdown.css">
+<link rel="stylesheet" href="./assets/github-markdown.css">
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammad Mohammad Hasan
 ===============================================================================================================================================
@@ -58,20 +57,20 @@ Software Engineer
 
 ### Stats
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics"  width="100%">
+  <img src="./assets/github-metrics.svg" alt="Metrics"  width="100%">
 </picture>
 
 ---
 
 <picture>
-  <img src="/commitStat.svg" alt="Commit Stat" width="49.7%" height="190px">
+  <img src="./assets/commitStat.svg" alt="Commit Stat" width="49.7%" height="190px">
 </picture>
 <picture>
-  <img src="/streak.svg" alt="Streak Stat" width="49.7%" height="190px">
+  <img src="./assets/streak.svg" alt="Streak Stat" width="49.7%" height="190px">
 </picture>
 
 <picture>
-  <img src="/trophy.svg" alt="Trophies" width="99.4%">
+  <img src="./assets/trophy.svg" alt="Trophies" width="99.4%">
 </picture>
 
 ### Special thanks

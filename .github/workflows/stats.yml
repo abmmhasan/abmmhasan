@@ -15,11 +15,11 @@ jobs:
         with:
           token: ${{ secrets.PAT }}
       - name: Commit stats
-        run: wget -U "${UA}" -O commitStat.svg "https://github-readme-stats-git-master-abmmhasan.vercel.app/api?username=abmmhasan&count_private=true&show_icons=true&theme=nord&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true"
+        run: wget -U "${UA}" ‐‐directory-prefix=assets -O commitStat.svg "https://github-readme-stats-git-master-abmmhasan.vercel.app/api?username=abmmhasan&count_private=true&show_icons=true&theme=nord&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true"
       - name: Streak stats
-        run: wget -U "${UA}" -O streak.svg "https://streak-stats.demolab.com?user=abmmhasan&theme=nord&hide_border=true&mode=weekly"
+        run: wget -U "${UA}" ‐‐directory-prefix=assets -O streak.svg "https://streak-stats.demolab.com?user=abmmhasan&theme=nord&hide_border=true&mode=weekly"
       - name: Trophy
-        run: wget -U "${UA}" -O trophy.svg "https://github-profile-trophy-abmmhasan.vercel.app/?username=abmmhasan&theme=nord&column=7&margin-w=10&margin-h=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET"
+        run: wget -U "${UA}" ‐‐directory-prefix=assets -O trophy.svg "https://github-profile-trophy-abmmhasan.vercel.app/?username=abmmhasan&theme=nord&column=7&margin-w=10&margin-h=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET"
       - name: Commit
         run: |
           if git diff --exit-code; then
