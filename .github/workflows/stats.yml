@@ -27,6 +27,7 @@ jobs:
         run: wget -U "${UA}" -O "./assets/streak.svg" "https://streak-stats.demolab.com?user=abmmhasan&theme=nord&hide_border=true&mode=weekly"
       - name: Commit
         run: |
+          ls -lrth
           ls -lrth assets
           if git diff --exit-code; then
             echo "Nothing to commit."
