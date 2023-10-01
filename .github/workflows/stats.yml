@@ -24,10 +24,15 @@ jobs:
         continue-on-error: true
         run: wget -U "${UA}" -O "./assets/streak.svg" "https://streak-stats.demolab.com?user=abmmhasan&theme=nord&hide_border=true&mode=weekly"
       - name: Commit
+        continue-on-error: true
         run: |
-          git status -sz || exit 0
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "update"
-          git push
+          if git status -sz; then
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add .
+            git commit -m "update"
+            git push
+          else
+            echo "nothing to commit"
+            exit 0
+          fi
