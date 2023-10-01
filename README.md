@@ -33,12 +33,13 @@ Software Engineer
 </p>
 
 ### Socials
-<p align="left">
-  <i class="ci ci-linkedin"></i>
-  <a href="https://www.github.com/abmmhasan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-  <a href="https://www.linkedin.com/in/abmmhasan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-  <a href="https://medium.com/@abmmhasan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-</p> 
+<a href="https://www.linkedin.com/in/abmmhasan/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://medium.com/@abmmhasan" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="LinkedIn" />
+</a>
+
 
 ### Latest from my blog
 <!-- BLOG-POST-LIST:START -->
@@ -50,10 +51,12 @@ Software Engineer
 
 [:book: Check my blog for more!](https://medium.com/@abmmhasan)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=nord)](https://github.com/abmmhasan)
-<a href="https://medium.com/@abmmhasan" target="_blank" rel="noreferrer">
+<picture>
+<img src='https://quotes-github-readme.vercel.app/api?theme=nord' style="height: 300px;"/>
+</picture>
+<picture>
   <img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
-</a>
+</picture>
 
 ### Stats
 <picture>
