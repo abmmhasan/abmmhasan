@@ -24,9 +24,9 @@ jobs:
         continue-on-error: true
         run: wget -U "${UA}" -O "./assets/streak.svg" "https://streak-stats.demolab.com?user=abmmhasan&theme=nord&hide_border=true&mode=weekly"
       - name: Commit
-        continue-on-error: true
         run: |
-          if git status -sz; then
+          git ls-files --exclude-standard --directory
+          if git diff --exit-code; then
             git config user.name github-actions
             git config user.email github-actions@github.com
             git add .
