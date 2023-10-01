@@ -51,9 +51,7 @@ Software Engineer
 
 [:book: Check my blog for more!](https://medium.com/@abmmhasan)
 
-<picture>
-<img src='https://quotes-github-readme.vercel.app/api?theme=nord' style="height: 300px;"/>
-</picture>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=nord)](https://github.com/abmmhasan)
 <picture>
   <img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
 </picture>
