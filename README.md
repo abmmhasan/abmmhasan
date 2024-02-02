@@ -11,7 +11,7 @@ Software Engineer
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/abmmhasan/)
 * ✉️  You can contact me at [LinkedIn](http://www.linkedin.com/in/abmmhasan/)
-# * 🚀  I'm currently working on [Dtac App/Lite API](https://www.dtac.co.th), [ATOM App API](https://www.atom.com.mm)
+<!-- * 🚀  I'm currently working on [Dtac App/Lite API](https://www.dtac.co.th), [ATOM App API](https://www.atom.com.mm) -->
 * 🤝  I'm open to collaborating on Libraries, Frameworks, RESTful APIs
 * ⚡  I prefer code to be lightweight, updated, least complex and balanced within Speed & Scalability
 
