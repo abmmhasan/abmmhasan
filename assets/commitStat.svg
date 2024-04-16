@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">A. B. M. Mahmudul Hasan's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 81, Total Commits  : 793, Total PRs: 44, Total Issues: 47, Contributed to (last year): 7</desc>
+        <title id="titleId">A. B. M. Mahmudul Hasan's GitHub Stats, Rank: B</title>
+        <desc id="descId">Total Stars Earned: 73, Total Commits  : 799, Total PRs: 46, Total Issues: 48, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 125.65230532178016;
+        stroke-dashoffset: 126.5425006279941;
       }
     }
   
@@ -137,7 +137,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >81</text>
+      >73</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -152,7 +152,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >793</text>
+      >799</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -167,7 +167,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >44</text>
+      >46</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -182,7 +182,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >47</text>
+      >48</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -197,7 +197,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >7</text>
+      >9</text>
     </g>
   </g>
     </svg>
