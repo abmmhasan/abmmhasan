@@ -43,6 +43,7 @@ Software Analyst
 
 ### Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- [Git Clients: The better ones](https://blog.infocyph.com/git-clients-the-better-ones-b38a6df6a82e?source=rss-90c9434afd1------2)
 - [Debian Server: Recommended Utility Packages](https://blog.infocyph.com/debian-server-recommended-non-security-packages-75a4c6a09f6b?source=rss-90c9434afd1------2)
 - [Debian Server: SSH Setup &lpar;best practices&rpar;](https://blog.infocyph.com/debian-server-ssh-setup-226c1bd4449f?source=rss-90c9434afd1------2)
 - [Debian Server: Installation](https://blog.infocyph.com/debian-server-installation-35ed66d5f2f1?source=rss-90c9434afd1------2)
