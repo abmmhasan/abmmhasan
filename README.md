@@ -43,6 +43,7 @@ Software Analyst
 
 ### Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- [The Definitive PHP-FPM Configuration Guide](https://blog.infocyph.com/the-definitive-php-fpm-configuration-guide-b6379b6a838b?source=rss-90c9434afd1------2)
 - [Debian Server: SSH Setup &lpar;with best practices&rpar;](https://blog.infocyph.com/debian-server-ssh-setup-with-best-practices-078f2c06c9c9?source=rss-90c9434afd1------2)
 - [Debian Server: Installation](https://blog.infocyph.com/debian-server-installation-c327a94dd15d?source=rss-90c9434afd1------2)
 - [Debian Server: Recommended Utility Packages](https://blog.infocyph.com/debian-server-recommended-non-security-packages-75a4c6a09f6b?source=rss-90c9434afd1------2)
