@@ -43,11 +43,11 @@ Software Analyst
 
 ### Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- [Free Git Clients: The better ones](https://blog.infocyph.com/free-git-clients-the-better-ones-db63c47949eb?source=rss-90c9434afd1------2)
 - [AI Can Write Code, But &lpar;Can&rpar; You?](https://blog.infocyph.com/ai-can-write-code-but-can-you-3b1a81f81a1a?source=rss-90c9434afd1------2)
 - [Free Database Clients: The better ones](https://blog.infocyph.com/free-database-clients-the-better-ones-8a7dfaa78b40?source=rss-90c9434afd1------2)
 - [The Definitive PHP-FPM Configuration Guide](https://blog.infocyph.com/the-definitive-php-fpm-configuration-guide-b6379b6a838b?source=rss-90c9434afd1------2)
 - [Debian Server: SSH Setup &lpar;with best practices&rpar;](https://blog.infocyph.com/debian-server-ssh-setup-with-best-practices-078f2c06c9c9?source=rss-90c9434afd1------2)
-- [Debian Server: Installation](https://blog.infocyph.com/debian-server-installation-c327a94dd15d?source=rss-90c9434afd1------2)
 <!-- BLOG-POST-LIST:END -->
 
 [:book: Check my blog for more!](https://medium.com/@abmmhasan)
