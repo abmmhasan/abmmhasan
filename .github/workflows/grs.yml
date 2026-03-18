@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
+
 permissions:
   contents: write
 
@@ -19,14 +20,39 @@ jobs:
           card: stats
           options: username=abmmhasan&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&hide_title=true&hide_border=true
           path: assets/commitStat.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: Generate Trophy with Custom Options
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+        run: |
+          deno run \
+            --allow-net \
+            --allow-env \
+            --allow-read \
+            --allow-write \
+            ./render_svg.ts \
+            "abmmhasan" \
+            "assets/trophy.svg" \
+            "dark_lover" \
+            "8" \
+            "10" \
+            "10" \
+            "15" \
+            "true" \
+            "true"
 
       - name: Commit cards
         run: |
           if [[ $(git status --porcelain) ]]; then
             git config user.name github-actions
             git config user.email github-actions@github.com
-            git add assets/commitStat.svg
+            git add assets/commitStat.svg assets/trophy.svg
             git commit -m "${{github.workflow}} (${{github.run_number}}/${{github.run_id}})"
             git push
           else
