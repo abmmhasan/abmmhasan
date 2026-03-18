@@ -1,0 +1,35 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=abmmhasan&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&hide_title=true&hide_border=true
+          path: assets/commitStat.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          if [[ $(git status --porcelain) ]]; then
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add assets/commitStat.svg
+            git commit -m "${{github.workflow}} (${{github.run_number}}/${{github.run_id}})"
+            git push
+          else
+            echo "nothing to commit"
+            exit 0
+          fi
