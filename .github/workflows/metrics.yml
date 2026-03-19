@@ -25,9 +25,11 @@ jobs:
           config_output: svg
           filename: assets/myMetrics.svg
           plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
           plugin_gists: yes
           plugin_habits: yes
           plugin_habits_charts_type: classic
