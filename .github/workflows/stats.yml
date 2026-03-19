@@ -29,7 +29,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=abmmhasan&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&hide_title=true&hide_border=true
+          options: username=abmmhasan&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&hide_title=true&hide_border=true&rank_icon=percentile
           path: assets/commitStat.svg
           token: ${{ secrets.PAT }}
 
@@ -37,7 +37,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=abmmhasan&layout=compact&langs_count=6
+          options: username=abmmhasan&layout=donut&stats_format=bytes&theme=transparent
           path: assets/top-langs.svg
           token: ${{ secrets.PAT }}
 
