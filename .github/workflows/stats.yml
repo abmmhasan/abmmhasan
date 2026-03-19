@@ -41,7 +41,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=abmmhasan&layout=donut&stats_format=bytes&theme=transparent
+          options: username=abmmhasan&layout=donut&stats_format=bytes&theme=transparent&hide_title=true&hide_border=true&langs_count=8
           path: assets/top-langs.svg
           token: ${{ secrets.PAT }}
 
