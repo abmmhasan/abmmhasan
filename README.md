@@ -59,12 +59,6 @@ Software Analyst
 
 ### Stats
 <picture>
-  <img src="./assets/myMetrics.svg" alt="Metrics"  width="100%">
-</picture>
-
----
-
-<picture>
   <img src="./assets/commitStat.svg" alt="Commit Stat" width="49.7%" height="190px">
 </picture>
 <picture>
@@ -72,8 +66,12 @@ Software Analyst
 </picture>
 
 <picture>
-  <img src="./assets/trophy.svg" alt="Trophies" width="99.4%">
+  <img src="./assets/trophy.svg" alt="Trophies" width="49.7%">
+</picture>
+<picture>
+  <img src="./assets/top-langs.svg" alt="Top Language" width="49.7%">
 </picture>
 
-### Special thanks
-<a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" width="100" height="100" alt="JetBrains" /></a>
+[//]: # (### Special thanks)
+
+[//]: # (<a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" width="100" height="100" alt="JetBrains" /></a>)
