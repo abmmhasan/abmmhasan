@@ -52,10 +52,9 @@ Software Analyst
 
 [:book: Check my blog for more!](https://medium.com/@abmmhasan)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=nord)](https://github.com/abmmhasan)
-<a href="https://medium.com/@abmmhasan" target="_blank" rel="noreferrer">
-  <img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
-</a>
+<picture>
+  <img src="./assets/quote.svg" alt="quote">
+</picture>
 
 ### Stats
 <picture>

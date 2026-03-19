@@ -24,6 +24,10 @@ jobs:
         continue-on-error: true
         run: wget -U "${UA}" -O "./assets/streak.svg" "https://streak-stats.demolab.com/?user=abmmhasan&theme=transparent&hide_border=true&mode=weekly"
 
+      - name: Generate Quote
+        continue-on-error: true
+        run: wget -U "${UA}" -O "./assets/quote.svg" "https://quotes-github-readme.vercel.app/api?theme=nord&type=horizontal"
+
       - name: Generate Commit Stats Card
         continue-on-error: true
         uses: readme-tools/github-readme-stats-action@v1
