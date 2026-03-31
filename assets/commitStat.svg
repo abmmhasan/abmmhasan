@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">A. B. M. Mahmudul Hasan's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 46, Total Commits  : 2511, Total PRs: 445, Total Issues: 59, Contributed to (last year): 19</desc>
+        <desc id="descId">Total Stars Earned: 46, Total Commits  : 2518, Total PRs: 445, Total Issues: 59, Contributed to (last year): 19</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 83.89398458598934;
+        stroke-dashoffset: 83.85841550762406;
       }
     }
   
