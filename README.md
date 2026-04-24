@@ -16,7 +16,7 @@ Software Analyst
 * ⚡  I prefer code to be lightweight, updated, least complex and balanced within Speed & Scalability
 
 ### Skills
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+<p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/git" width="42" height="42" alt="Git" /></a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/php" width="42" height="42" alt="PHP" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/js" width="42" height="42" alt="JavaScript" /></a>
@@ -34,7 +34,7 @@ Software Analyst
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/docker" width="42" height="42" alt="Docker" /></a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/jenkins" width="42" height="42" alt="Jenkins" /></a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/jira" width="42" height="42" alt="Jira" /></a>
-</div>
+</p>
 
 `Key Expertise:` Algorithm Implementation, Virtualization, System Optimization, Technical Analysis, Cryptographic Security, DevOps
 
