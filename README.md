@@ -16,25 +16,25 @@ Software Analyst
 * ⚡  I prefer code to be lightweight, updated, least complex and balanced within Speed & Scalability
 
 ### Skills
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/brands/git-alt.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/brands/php.svg" width="36" height="36" alt="PHP" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/brands/js.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/brands/html5.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/terminal.svg" width="36" height="36" alt="Bash" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/leaf.svg" width="36" height="36" alt="MongoDB" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/database.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/server.svg" width="36" height="36" alt="PostgreSQL" /></a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/database.svg" width="36" height="36" alt="MariaDB" /></a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/memory.svg" width="36" height="36" alt="Redis" /></a>
-  <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/magnifying-glass.svg" width="36" height="36" alt="ElasticSearch" /></a>
-  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/server.svg" width="36" height="36" alt="Apache" /></a>
-  <a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/network-wired.svg" width="36" height="36" alt="Nginx" /></a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/brands/laravel.svg" width="36" height="36" alt="Laravel" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/brands/docker.svg" width="36" height="36" alt="Docker" /></a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/gears.svg" width="36" height="36" alt="Jenkins" /></a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/list-check.svg" width="36" height="36" alt="Jira" /></a>
-</p>
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/git" width="42" height="42" alt="Git" /></a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/php" width="42" height="42" alt="PHP" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/js" width="42" height="42" alt="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/html" width="42" height="42" alt="HTML5" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/bash" width="42" height="42" alt="Bash" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/mongodb" width="42" height="42" alt="MongoDB" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/mysql" width="42" height="42" alt="MySQL" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/postgresql" width="42" height="42" alt="PostgreSQL" /></a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/database.svg" width="42" height="42" alt="MariaDB" /></a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/redis" width="42" height="42" alt="Redis" /></a>
+  <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/magnifying-glass.svg" width="42" height="42" alt="ElasticSearch" /></a>
+  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/server.svg" width="42" height="42" alt="Apache" /></a>
+  <a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/network-wired.svg" width="42" height="42" alt="Nginx" /></a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/laravel" width="42" height="42" alt="Laravel" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/docker" width="42" height="42" alt="Docker" /></a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/jenkins" width="42" height="42" alt="Jenkins" /></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/jira" width="42" height="42" alt="Jira" /></a>
+</div>
 
 `Key Expertise:` Algorithm Implementation, Virtualization, System Optimization, Technical Analysis, Cryptographic Security, DevOps
 
