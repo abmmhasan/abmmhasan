@@ -26,9 +26,9 @@ Software Analyst
     <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/mongodb" width="34" height="34" alt="MongoDB" /></a></td>
     <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/mysql" width="34" height="34" alt="MySQL" /></a></td>
     <td><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/postgresql" width="34" height="34" alt="PostgreSQL" /></a></td>
+    <td><a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/database.svg" width="34" height="34" alt="MariaDB" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/database.svg" width="34" height="34" alt="MariaDB" /></a></td>
     <td><a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/redis" width="34" height="34" alt="Redis" /></a></td>
     <td><a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/magnifying-glass.svg" width="34" height="34" alt="ElasticSearch" /></a></td>
     <td><a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/server.svg" width="34" height="34" alt="Apache" /></a></td>
