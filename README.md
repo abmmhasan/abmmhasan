@@ -16,27 +16,27 @@ Software Analyst
 * ⚡  I prefer code to be lightweight, updated, least complex and balanced within Speed & Scalability
 
 ### Skills
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/git" width="34" height="34" alt="Git" /></a></td>
-    <td><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/php" width="34" height="34" alt="PHP" /></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/js" width="34" height="34" alt="JavaScript" /></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/html" width="34" height="34" alt="HTML5" /></a></td>
-    <td><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/bash" width="34" height="34" alt="Bash" /></a></td>
-    <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/mongodb" width="34" height="34" alt="MongoDB" /></a></td>
-    <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/mysql" width="34" height="34" alt="MySQL" /></a></td>
-    <td><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/postgresql" width="34" height="34" alt="PostgreSQL" /></a></td>
-    <td><a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/database.svg" width="34" height="34" alt="MariaDB" /></a></td>
+    <td border="0"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/git" width="34" height="34" alt="Git" /></a></td>
+    <td border="0"><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/php" width="34" height="34" alt="PHP" /></a></td>
+    <td border="0"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/js" width="34" height="34" alt="JavaScript" /></a></td>
+    <td border="0"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/html" width="34" height="34" alt="HTML5" /></a></td>
+    <td border="0"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/bash" width="34" height="34" alt="Bash" /></a></td>
+    <td border="0"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/mongodb" width="34" height="34" alt="MongoDB" /></a></td>
+    <td border="0"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/mysql" width="34" height="34" alt="MySQL" /></a></td>
+    <td border="0"><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/postgresql" width="34" height="34" alt="PostgreSQL" /></a></td>
+    <td border="0"><a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/database.svg" width="34" height="34" alt="MariaDB" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/redis" width="34" height="34" alt="Redis" /></a></td>
-    <td><a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/magnifying-glass.svg" width="34" height="34" alt="ElasticSearch" /></a></td>
-    <td><a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/server.svg" width="34" height="34" alt="Apache" /></a></td>
-    <td><a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/network-wired.svg" width="34" height="34" alt="Nginx" /></a></td>
-    <td><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/laravel" width="34" height="34" alt="Laravel" /></a></td>
-    <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/docker" width="34" height="34" alt="Docker" /></a></td>
-    <td><a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/jenkins" width="34" height="34" alt="Jenkins" /></a></td>
-    <td><a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/jira" width="34" height="34" alt="Jira" /></a></td>
+    <td border="0"><a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/redis" width="34" height="34" alt="Redis" /></a></td>
+    <td border="0"><a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/magnifying-glass.svg" width="34" height="34" alt="ElasticSearch" /></a></td>
+    <td border="0"><a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/server.svg" width="34" height="34" alt="Apache" /></a></td>
+    <td border="0"><a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/svgs/solid/network-wired.svg" width="34" height="34" alt="Nginx" /></a></td>
+    <td border="0"><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/laravel" width="34" height="34" alt="Laravel" /></a></td>
+    <td border="0"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/docker" width="34" height="34" alt="Docker" /></a></td>
+    <td border="0"><a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/jenkins" width="34" height="34" alt="Jenkins" /></a></td>
+    <td border="0"><a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://iconic-api.onrender.com/dark/jira" width="34" height="34" alt="Jira" /></a></td>
   </tr>
 </table>
 
