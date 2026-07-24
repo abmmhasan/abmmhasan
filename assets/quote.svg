@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Never trust a computer you can’t throw out a window.</h3>
-          <p>- Steve Wozniak</p>
+          <h3>Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.</h3>
+          <p>- Stan Kelly-Bootle</p>
         </div>
       </div>
     </foreignObject>
