@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.</h3>
-          <p>- Fred Brooks</p>
+          <h3>A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.</h3>
+          <p>- Leslie Lamport</p>
         </div>
       </div>
     </foreignObject>
