@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.</h3>
-          <p>- Fred Brooks</p>
+          <h3>Fancy algorithms are slow when n is small, and n is usually small.</h3>
+          <p>- Rob Pike</p>
         </div>
       </div>
     </foreignObject>
