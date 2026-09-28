@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?</h3>
-          <p>- Martin Fowler</p>
+          <h3>Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.</h3>
+          <p>- Daniel T. Barry</p>
         </div>
       </div>
     </foreignObject>
