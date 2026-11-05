@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>What I cannot build, I do not understand.</h3>
-          <p>- Richard Feynman</p>
+          <h3>With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.</h3>
+          <p>- Martin Fowler</p>
         </div>
       </div>
     </foreignObject>
